@@ -60,7 +60,7 @@ By leveraging streaming data APIs and intelligent data processing techniques, th
 
 ## 🖼️ Screenshot
 
-![Weather Dashboard](screenshot_link)
+![Weather Dashboard]([screenshot_link](https://github.com/ShreyasreeBhattacharya/Live-Weather-Dashboard/blob/main/Weather.png))
 
 
 
